@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jamb Register", "Jamb Register\Jamb Register.csproj", "{6BCE97EE-7ABA-4234-BDBB-68F6B30E1386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BCE97EE-7ABA-4234-BDBB-68F6B30E1386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BCE97EE-7ABA-4234-BDBB-68F6B30E1386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BCE97EE-7ABA-4234-BDBB-68F6B30E1386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BCE97EE-7ABA-4234-BDBB-68F6B30E1386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1C472CB-AFAA-47DB-9FAC-DE6F5B048E0D}
+	EndGlobalSection
+EndGlobal

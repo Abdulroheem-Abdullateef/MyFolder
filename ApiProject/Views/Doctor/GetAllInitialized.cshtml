@@ -1,0 +1,95 @@
+@{
+   Layout = "AdminLayout";
+}
+@model IEnumerable<ApiProject.Dtos.DoctorDTO>
+
+
+
+<div class="card-header" style="background-color:midnightblue;">
+    <div class="card-title">
+        <h1 class="text-center">Newly Applied Doctors</h1>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Id) *@
+                S/N
+            </th>
+
+            <th>
+                @* @Html.DisplayNameFor(model => model.FirstName) *@
+                FirstName
+            </th>
+
+            <th>
+                @* @Html.DisplayNameFor(model => model.LastName) *@
+                LastName
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Email) *@
+                Photo
+            </th>
+              <th>
+                @* Html.DisplayNameFor(model => model.BloodGroup) *@
+                Certificate
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.AreaOfSpec) *@
+                Specialized Area
+            </th>
+            <th>
+                Approve
+            </th>
+            <th>
+                Dissaprove
+            </th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patients in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => patients.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.DoctorPhoto)
+            </td> 
+             <td>
+                @Html.DisplayFor(modelItem => patients.DoctorCertificate)
+            </td>           
+            <td>
+                @Html.DisplayFor(modelItem => patients.AreaOfSpec)
+            </td>
+          
+            <td>
+                 <button style="Green;">
+                            <a asp-action="ApprovedDoctors" asp-route-DoctorId="@patients.Id" style="color: Blue;">Approve</a>
+                 </button>
+                          
+            </td>
+            <td>
+               <button style="Green;">
+                            <a asp-action="DissaprovedDoctors" asp-route-DoctorId="@patients.Id" style="color: Blue;">Disapprove</a>
+                 </button>
+            </td>
+           
+        </tr>
+        }
+    </tbody>
+</table>
+@* <button style="background-color:wheat;">
+    <a asp-controller="Student" asp-action="Create">Register Student</a>
+ </button> *@
+
+

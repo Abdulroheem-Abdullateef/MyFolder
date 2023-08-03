@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Jamp App", "New Jamp App\New Jamp App.csproj", "{D7466853-2A11-47CC-9C01-01829D22DDC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7466853-2A11-47CC-9C01-01829D22DDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7466853-2A11-47CC-9C01-01829D22DDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7466853-2A11-47CC-9C01-01829D22DDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7466853-2A11-47CC-9C01-01829D22DDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A9251A-78BB-4735-8094-2926C44AC417}
+	EndGlobalSection
+EndGlobal

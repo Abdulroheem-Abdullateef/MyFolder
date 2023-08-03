@@ -1,0 +1,40 @@
+CodeLearnersHub Assessment Questions For Batch 10.
+Time Allowed: 4hrs
+
+1. Write a program in C# Sharp to read 10 numbers from keyboard and find their sum and average .
+
+2.Write a program that reads five numbers from the console and prints the 
+greatest of them.
+
+3. Write a program in C# Sharp to read any Month Number in integer and display Month 
+name in the word.
+
+4.Write a C# program that prompts the user to enter two integers, if the 
+values of the two numbers are equal then return the triple of their sum 
+otherwise return their sum.
+
+5. Write an if-statement that takes two integer variables and exchanges
+their values if the first one is greater than the second one.
+
+6. Write a C# Sharp program that reads the three sides of a triangle from the console
+and check whether a triangle is Equilateral, Isosceles or Scalene.
+Hint: Equilateral => 3 equal sides, Isosceles => 2 equal sides, Scalene => No equal sides
+
+7. Write a program that applies bonus points to given scores in the range 
+[1…9] by the following rules:
+- If the score is between 1 and 3, the program multiplies it by 10.
+- If the score is between 4 and 6, the program multiplies it by 100.
+- If the score is between 7 and 9, the program multiplies it by 1000.
+- If the score is 0 or more than 9, the program prints an error 
+message.
+
+8. Write a program in C# Sharp to create a simple Calculator using switch case.
+ 
+9. Write a C# program to input any alphabet and checks whether it is vowel or consonant.
+
+10. Write a program that reads an integer between 0 and 1000 and adds all the digits in the integer. 
+For example, if an integer is 932, the sum of all its digits is 14.
+Hint: Use the % operator to extract digits, and use the / operator to remove the
+extracted digit. For instance, 932 % 10 = 2 and 932 / 10 = 93.
+
+-----Good Luck------

@@ -1,0 +1,100 @@
+﻿@model IEnumerable<WebApplicationMVC.DTO.CountryDto>
+
+
+
+<div class="card-header" style="background-color:saddlebrown;">
+    <div class="card-title">
+        <h1 class="text-center">Country</h1>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Cities)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.CountryName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Independent)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Population)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Region)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SurfaceArea)
+            </th>
+
+
+
+
+            <th>
+                Action
+            </th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var country in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => country.Id)
+            </td>
+            
+
+            <td>
+                @Html.DisplayFor(modelItem => country.AllCityNames)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => country.CountryName)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => country.Independent)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => country.Population)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => country.Region)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => country.SurfaceArea)
+            </td>
+
+
+
+
+            <td>
+                <a asp-action="Update" asp-route-id="@country.Id">Update</a>
+
+                <a asp-action="Delete" asp-route-id="@country.Id">Delete</a>
+
+                <a asp-action="Details" asp-route-id="@country.Id">Details</a>
+
+                <a asp-action="Add" asp-route-id="@country.Cities">Add</a>
+            </td>
+
+
+        </tr>
+        }
+    </tbody>
+</table>
+<button style="background-color:darkblue; "> <a asp-controller="Country" asp-action="Create">Register Country </a> </button>
+
+

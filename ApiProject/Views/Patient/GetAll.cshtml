@@ -1,0 +1,91 @@
+@{
+   Layout = "AdminLayout";
+}
+@model IEnumerable<ApiProject.Dtos.PatientDTO>
+
+
+
+<div class="card-header" style="background-color:midnightblue;">
+    <div class="card-title">
+        <h1 class="text-center">Patients</h1>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.PatientPhoto)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.BloodGroup)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Genotype)
+            </th>           
+            <th>
+                Details
+            </th>            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patients in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => patients.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.PhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.PatientPhoto)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => patients.BloodGroup)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => patients.Genotype)
+            </td>
+          
+            <td>
+                <a asp-action="Details" asp-route-id="@patients.Id">Details</a>
+            </td>
+            
+        </tr>
+        }
+    </tbody>
+</table>
+@* <button style="background-color:wheat;">
+    <a asp-controller="Student" asp-action="Create">Register Student</a>
+ </button> *@
+
+

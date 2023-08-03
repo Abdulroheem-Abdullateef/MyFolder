@@ -1,0 +1,12 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\bin\Debug\net5.0\BlazorChat.Shared.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\bin\Debug\net5.0\BlazorChat.Shared.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\bin\Debug\net5.0\BlazorChat.Shared.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\obj\Debug\net5.0\BlazorChat.Shared.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\obj\Debug\net5.0\BlazorChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\obj\Debug\net5.0\BlazorChat.Shared.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\obj\Debug\net5.0\BlazorChat.Shared.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\obj\Debug\net5.0\BlazorChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\obj\Debug\net5.0\BlazorChat.Shared.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\obj\Debug\net5.0\refint\BlazorChat.Shared.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\obj\Debug\net5.0\BlazorChat.Shared.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BlazorChat\BlazorChat\Shared\obj\Debug\net5.0\ref\BlazorChat.Shared.dll

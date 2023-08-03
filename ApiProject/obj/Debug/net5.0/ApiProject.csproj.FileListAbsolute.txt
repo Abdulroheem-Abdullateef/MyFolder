@@ -1,0 +1,271 @@
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.exe
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.Views.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\appsettings.json
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.deps.json
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.runtimeconfig.json
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.runtimeconfig.dev.json
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ref\ApiProject.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.pdb
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.Views.pdb
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\MailKit.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\MimeKit.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.csproj.AssemblyReference.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.AssemblyInfoInputs.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.AssemblyInfo.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.csproj.CoreCompileInputs.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorAssemblyInfo.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorAssemblyInfo.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\staticwebassets\ApiProject.StaticWebAssets.Manifest.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\staticwebassets\ApiProject.StaticWebAssets.xml
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\scopedcss\bundle\ApiProject.styles.css
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.TagHelpers.input.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.TagHelpers.output.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorCoreGenerate.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Create.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Create.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\Create.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Create.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\User\LogIn.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorTargetAssemblyInfo.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.Views.pdb
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.csproj.CopyComplete
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ref\ApiProject.dll
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.pdb
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.genruntimeconfig.cache
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Index.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Index.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Index.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\DoctorLayout.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\HospitalLayout.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\PatientLayout.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\GetAll.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Update.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\ApprovedDoctors.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Delete.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Details.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllApprovedDoctors.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllAvailableDoctors.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllDentist.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllHaematologists.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllOpticians.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllOrthopaedics.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllPadaestrics.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllPharmacologist.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Update.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Delete.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Details.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\GetAllHospitals.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Update.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignedCases.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignedHospital.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignedMedicalCases.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignPatientToDoctor.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignPatientToHospital.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\Delete.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\Details.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\GetAllMedicalrecords.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\InitializedCases.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\RefferedNeededCases.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\RefferedNotNeededCases.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\TreatedCases.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\TreatedMedicalCases.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Delete.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Details.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\GetAll.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Update.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Details.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\GetAllRoles.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Update.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\User\GetAllUsers.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllInitialized.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\DissaprovedDoctors.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllGynaeocologist.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\GetAllByPatientId.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\GetByPatientId.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\RecentComplainByPatientId.cshtml.g.cs
+C:\Users\AFOLAYAN\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\TreatedRefferedCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\appsettings.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.StaticWebAssets.xml
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.Views.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ApiProject.Views.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\MailKit.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\MimeKit.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorAssemblyInfo.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorAssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\scopedcss\bundle\ApiProject.styles.css
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\staticwebassets\ApiProject.StaticWebAssets.Manifest.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.TagHelpers.input.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.TagHelpers.output.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorCoreGenerate.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\GetAll.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Admin\Update.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\ApprovedDoctors.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\DissaprovedDoctors.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllApprovedDoctors.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllAvailableDoctors.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllDentist.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllGynaeocologist.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllHaematologists.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllInitialized.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllOpticians.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllOrthopaedics.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllPadaestrics.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\GetAllPharmacologist.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Doctor\Update.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\GetAllHospitals.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Hospital\Update.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignedCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignedHospital.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignedMedicalCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignPatientToDoctor.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\AssignPatientToHospital.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\GetAllByPatientId.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\GetAllMedicalrecords.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\GetByPatientId.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\GetRecordByPatientId.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\InitializedCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\MedicalCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\RecentComplainByPatientId.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\RefferedNeededCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\RefferedNotNeededCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\TreatedCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\TreatedMedicalCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\TreatedRefferedCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\MedicalRecord\TreatedRefferedMedicalCases.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\GetAll.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Patient\Update.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\GetAllRoles.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Role\Update.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\DoctorLayout.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\HospitalLayout.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\PatientLayout.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\User\GetAllUsers.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\User\LogIn.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorTargetAssemblyInfo.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.RazorTargetAssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.Views.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.csproj.CopyComplete
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\refint\ApiProject.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ApiProject.genruntimeconfig.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\ApiProject\obj\Debug\net5.0\ref\ApiProject.dll

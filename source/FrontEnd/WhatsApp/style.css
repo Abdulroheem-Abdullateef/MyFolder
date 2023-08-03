@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.home-chat-container{
+    width: 100%;
+    max-width: 768px;
+    margin: auto;
+}
+.home-main-chat{
+    width: 100%;
+    overflow: hidden;
+    margin-top: 10px;
+}
+ .home-chat{
+ float: left;
+ }
+.home-chat-image{
+  width: 25%;
+  width: 100%;
+  max-width: 50px;
+  margin: auto;
+  height: 50px;
+
+}
+.home-chat-name{
+  width: 25%;
+
+}

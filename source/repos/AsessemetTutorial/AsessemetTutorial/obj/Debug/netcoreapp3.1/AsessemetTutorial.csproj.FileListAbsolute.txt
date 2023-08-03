@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\bin\Debug\netcoreapp3.1\AsessemetTutorial.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\bin\Debug\netcoreapp3.1\AsessemetTutorial.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\bin\Debug\netcoreapp3.1\AsessemetTutorial.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\bin\Debug\netcoreapp3.1\AsessemetTutorial.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\bin\Debug\netcoreapp3.1\AsessemetTutorial.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\bin\Debug\netcoreapp3.1\AsessemetTutorial.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\obj\Debug\netcoreapp3.1\AsessemetTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\obj\Debug\netcoreapp3.1\AsessemetTutorial.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\obj\Debug\netcoreapp3.1\AsessemetTutorial.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\obj\Debug\netcoreapp3.1\AsessemetTutorial.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\obj\Debug\netcoreapp3.1\AsessemetTutorial.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\obj\Debug\netcoreapp3.1\AsessemetTutorial.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\obj\Debug\netcoreapp3.1\AsessemetTutorial.genruntimeconfig.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AsessemetTutorial\AsessemetTutorial\obj\Debug\netcoreapp3.1\AsessemetTutorial.csproj.AssemblyReference.cache

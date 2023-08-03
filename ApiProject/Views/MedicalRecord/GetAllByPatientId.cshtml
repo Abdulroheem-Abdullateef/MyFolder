@@ -1,0 +1,109 @@
+@{
+    Layout = "PatientLayout";
+}
+@model IEnumerable<ApiProject.Dtos.MedicalRecordDTO>
+
+<div class="card-header" style="background-color:Yellow;">
+    <div class="card-title">
+        <h1 class="text-center" style="Green">Approved Doctors</h1>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Id) *@
+                S/N
+            </th>
+
+            <th>
+                @* @Html.DisplayNameFor(model => model.FirstName) *@
+               Doctor's Name
+            </th>
+
+            <th>
+                @* @Html.DisplayNameFor(model => model.LastName) *@
+                Diagnosis
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Email) *@
+                Prescription
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.AreaOfSpec) *@
+                Complain
+            </th>
+             <th>
+                @* @Html.DisplayNameFor(model => model.BloodGroup) *@
+                Doctor's Report
+            </th>
+              <th>
+                @* @Html.DisplayNameFor(model => model.Genotype) *@
+                Refferral
+            </th> 
+                <th>
+                @* @Html.DisplayNameFor(model => model.Genotype) *@
+                Hospital Refferred to:
+            </th> 
+
+
+
+
+            @* <th>
+                Update
+            </th>
+            <th>
+                Details
+            </th>
+            <th>
+                Delete
+            </th> *@
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patients in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => patients.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.DoctorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.Diagnosis)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => patients.Prescription)
+            </td>           
+            <td>
+                @Html.DisplayFor(modelItem => patients.PatientComplain)
+            </td>
+              <td>
+                @Html.DisplayFor(modelItem => patients.DoctorReport)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => patients.Refferral)
+            </td> 
+             <td>
+                @Html.DisplayFor(modelItem => patients.HospitalName)
+            </td> 
+             @*<td>
+                <a asp-action="Update" asp-route-id="@patients.Id">Update</a>
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@patients.Id">Details</a>
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@patients.Id">Delete</a>
+            </td> *@
+        </tr>
+        }
+    </tbody>
+</table>
+@* <button style="background-color:wheat;">
+    <a asp-controller="Student" asp-action="Create">Register Student</a>
+ </button> *@
+
+

@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\bin\Debug\net5.0\inheritance classwork.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\bin\Debug\net5.0\inheritance classwork.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\bin\Debug\net5.0\inheritance classwork.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\bin\Debug\net5.0\inheritance classwork.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\bin\Debug\net5.0\inheritance classwork.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\bin\Debug\net5.0\ref\inheritance classwork.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\bin\Debug\net5.0\inheritance classwork.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\obj\Debug\net5.0\inheritance classwork.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\obj\Debug\net5.0\inheritance classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\obj\Debug\net5.0\inheritance classwork.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\obj\Debug\net5.0\inheritance classwork.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\obj\Debug\net5.0\inheritance classwork.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\obj\Debug\net5.0\inheritance classwork.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\obj\Debug\net5.0\ref\inheritance classwork.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\obj\Debug\net5.0\inheritance classwork.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP CLASS\OOP Class Works 4\inheritance classwork\obj\Debug\net5.0\inheritance classwork.genruntimeconfig.cache

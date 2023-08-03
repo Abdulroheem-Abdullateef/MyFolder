@@ -1,0 +1,104 @@
+﻿@model IEnumerable<LearningManagementSystem.DTOs.InstructorDto>
+
+@{
+    Layout = "_InstructorLayout";
+    ViewData["Title"] = "Instructor";
+}
+
+<div class="pd-ltr-20">
+    <div class="card-box pd-20 height-100-p mb-30">
+        <div class="row align-items-center">
+            <div class="col-md-4">
+                <img src="~/vendors/images/banner-img.png" alt="">
+            </div>
+            <div class="col-md-8">
+                <h4 class="font
+                    <p class=-20 weight-500 mb-10 text-capitalize">
+                        Welcome back <div class="weight-600 font-30 text-blue">@User.Identity.Name!</div>
+                    </h4>"font-18 max-width-600">This specialize bus services is apt for peculiar customers. It closes your day in one city and opens it in another to give you a feel of the dynamic ambience of two cities in one great experience of fulfillment on wheels.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-wrap pd-20 mb-20 card-box">
+        E-Transport Admin Designed By CodeLearners
+    </div>
+</div>
+<!-- js -->
+
+
+
+
+
+
+<div class="card-header" style="background-color:midnightblue;">
+    <div class="card-title">
+        <h1 class="text-center"> Welcome @User.Identity.Name</h1>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+
+
+
+
+
+            <th>
+                Update
+            </th>
+            <th>
+                Details
+            </th>
+            <th>
+                Delete
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var instructor in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => instructor.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => instructor.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => instructor.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => instructor.PhoneNumber)
+                </td>
+
+                <td>
+                    <a asp-action="Update" asp-route-id="@instructor.Id">Update</a>
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@instructor.Id">Details</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@instructor.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<button style="background-color:wheat;"><a asp-controller="instructor" asp-action="Create">Register instructor</a> </button>

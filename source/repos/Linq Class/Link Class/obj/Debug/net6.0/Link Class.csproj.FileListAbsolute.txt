@@ -1,0 +1,15 @@
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\bin\Debug\net6.0\Link Class.exe
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\bin\Debug\net6.0\Link Class.deps.json
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\bin\Debug\net6.0\Link Class.runtimeconfig.json
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\bin\Debug\net6.0\Link Class.dll
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\bin\Debug\net6.0\Link Class.pdb
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\Link Class.csproj.AssemblyReference.cache
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\Link Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\Link Class.AssemblyInfoInputs.cache
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\Link Class.AssemblyInfo.cs
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\Link Class.csproj.CoreCompileInputs.cache
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\Link Class.dll
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\refint\Link Class.dll
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\Link Class.pdb
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\Link Class.genruntimeconfig.cache
+C:\Users\BDUL LATEEF\Desktop\Desktop\source\repos\Linq Class\Link Class\obj\Debug\net6.0\ref\Link Class.dll

@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\bin\Debug\netcoreapp3.1\Csharpclass.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\bin\Debug\netcoreapp3.1\Csharpclass.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\bin\Debug\netcoreapp3.1\Csharpclass.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\bin\Debug\netcoreapp3.1\Csharpclass.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\bin\Debug\netcoreapp3.1\Csharpclass.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\bin\Debug\netcoreapp3.1\Csharpclass.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\obj\Debug\netcoreapp3.1\Csharpclass.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\obj\Debug\netcoreapp3.1\Csharpclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\obj\Debug\netcoreapp3.1\Csharpclass.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\obj\Debug\netcoreapp3.1\Csharpclass.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\obj\Debug\netcoreapp3.1\Csharpclass.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\obj\Debug\netcoreapp3.1\Csharpclass.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\obj\Debug\netcoreapp3.1\Csharpclass.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharpclass\Csharpclass\obj\Debug\netcoreapp3.1\Csharpclass.genruntimeconfig.cache

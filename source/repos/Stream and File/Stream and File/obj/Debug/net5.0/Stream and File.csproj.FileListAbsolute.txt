@@ -1,0 +1,32 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\ref\Stream and File.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\ref\Stream and File.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.genruntimeconfig.cache
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.exe
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.deps.json
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.runtimeconfig.json
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.runtimeconfig.dev.json
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.dll
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\bin\Debug\net5.0\Stream and File.pdb
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.csproj.AssemblyReference.cache
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.AssemblyInfoInputs.cache
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.AssemblyInfo.cs
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.csproj.CoreCompileInputs.cache
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.dll
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\refint\Stream and File.dll
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.pdb
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\Stream and File.genruntimeconfig.cache
+C:\Users\BDUL LATEEF\Desktop\source\repos\Stream and File\Stream and File\obj\Debug\net5.0\ref\Stream and File.dll

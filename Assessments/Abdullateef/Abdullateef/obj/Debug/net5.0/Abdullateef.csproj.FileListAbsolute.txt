@@ -1,0 +1,32 @@
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\ref\Abdullateef.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\ref\Abdullateef.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.genruntimeconfig.cache
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.exe
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.deps.json
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.runtimeconfig.json
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.runtimeconfig.dev.json
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.dll
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\bin\Debug\net5.0\Abdullateef.pdb
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.csproj.AssemblyReference.cache
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.AssemblyInfoInputs.cache
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.AssemblyInfo.cs
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.csproj.CoreCompileInputs.cache
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.dll
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\refint\Abdullateef.dll
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.pdb
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\Abdullateef.genruntimeconfig.cache
+C:\Users\BDUL LATEEF\Desktop\Assessments\Abdullateef\Abdullateef\obj\Debug\net5.0\ref\Abdullateef.dll

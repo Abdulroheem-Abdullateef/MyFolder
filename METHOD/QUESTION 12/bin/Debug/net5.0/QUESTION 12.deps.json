@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "QUESTION 12/1.0.0": {
+        "runtime": {
+          "QUESTION 12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QUESTION 12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

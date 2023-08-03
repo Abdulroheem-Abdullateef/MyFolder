@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\bin\Debug\netcoreapp3.1\No 10.cs.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\bin\Debug\netcoreapp3.1\No 10.cs.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\bin\Debug\netcoreapp3.1\No 10.cs.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\bin\Debug\netcoreapp3.1\No 10.cs.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\bin\Debug\netcoreapp3.1\No 10.cs.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\bin\Debug\netcoreapp3.1\No 10.cs.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\obj\Debug\netcoreapp3.1\No 10.cs.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\obj\Debug\netcoreapp3.1\No 10.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\obj\Debug\netcoreapp3.1\No 10.cs.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\obj\Debug\netcoreapp3.1\No 10.cs.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\obj\Debug\netcoreapp3.1\No 10.cs.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\obj\Debug\netcoreapp3.1\No 10.cs.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\obj\Debug\netcoreapp3.1\No 10.cs.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\No 10.cs\No 10.cs\obj\Debug\netcoreapp3.1\No 10.cs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>OOP_ClassWorks_2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\OOP CLASS\OOP Class Works 4\inheritance classwork\Animal.cs" Link="Animal.cs" />
+  </ItemGroup>
+
+</Project>

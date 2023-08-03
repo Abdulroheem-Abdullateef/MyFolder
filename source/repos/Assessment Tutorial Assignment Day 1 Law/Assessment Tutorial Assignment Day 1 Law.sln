@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assessment Tutorial Assignment Day 1 Law", "Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law.csproj", "{930D7366-6E15-4A41-A3DB-13DFD167C15F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assestment Tutorial Class Day 2 law", "..\Assestment Tutorial Class Day 2 law\Assestment Tutorial Class Day 2 law\Assestment Tutorial Class Day 2 law.csproj", "{FDB4F858-6249-4142-9093-33B1C28D796F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930D7366-6E15-4A41-A3DB-13DFD167C15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930D7366-6E15-4A41-A3DB-13DFD167C15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930D7366-6E15-4A41-A3DB-13DFD167C15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930D7366-6E15-4A41-A3DB-13DFD167C15F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB4F858-6249-4142-9093-33B1C28D796F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB4F858-6249-4142-9093-33B1C28D796F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB4F858-6249-4142-9093-33B1C28D796F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB4F858-6249-4142-9093-33B1C28D796F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28615EE0-470C-4297-8CA1-97358E1D66BE}
+	EndGlobalSection
+EndGlobal

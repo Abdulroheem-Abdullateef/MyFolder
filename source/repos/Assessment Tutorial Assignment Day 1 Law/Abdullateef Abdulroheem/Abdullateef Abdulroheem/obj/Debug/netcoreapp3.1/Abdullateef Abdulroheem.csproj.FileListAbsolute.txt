@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\bin\Debug\netcoreapp3.1\Abdullateef Abdulroheem.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\bin\Debug\netcoreapp3.1\Abdullateef Abdulroheem.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\bin\Debug\netcoreapp3.1\Abdullateef Abdulroheem.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\bin\Debug\netcoreapp3.1\Abdullateef Abdulroheem.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\bin\Debug\netcoreapp3.1\Abdullateef Abdulroheem.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\bin\Debug\netcoreapp3.1\Abdullateef Abdulroheem.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\obj\Debug\netcoreapp3.1\Abdullateef Abdulroheem.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\obj\Debug\netcoreapp3.1\Abdullateef Abdulroheem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\obj\Debug\netcoreapp3.1\Abdullateef Abdulroheem.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\obj\Debug\netcoreapp3.1\Abdullateef Abdulroheem.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\obj\Debug\netcoreapp3.1\Abdullateef Abdulroheem.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\obj\Debug\netcoreapp3.1\Abdullateef Abdulroheem.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\obj\Debug\netcoreapp3.1\Abdullateef Abdulroheem.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Abdullateef Abdulroheem\Abdullateef Abdulroheem\obj\Debug\netcoreapp3.1\Abdullateef Abdulroheem.genruntimeconfig.cache

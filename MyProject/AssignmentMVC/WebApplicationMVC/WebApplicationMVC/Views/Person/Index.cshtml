@@ -1,0 +1,88 @@
+﻿
+
+@model IEnumerable<WebApplicationMVC.DTO.PersonDto>
+
+
+
+
+<div class="card-header" style="background-color:yellowgreen;">
+    <div class="card-title">
+        <h1 class="text-center">Person</h1>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PersonAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+
+            <th>
+                Action
+            </th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+         {
+
+           <tr>
+             <td>
+                @Html.DisplayFor(modelItem => person.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => person.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => person.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => person.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => person.PersonAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => person.PhoneNumber)
+            </td>
+
+
+            <td>
+                <a asp-action="Update" asp-route-id="@person.Id">Update</a>
+
+                <a asp-action="Delete" asp-route-id="@person.Id">Delete</a>
+
+                <a asp-action="Details" asp-route-id="@person.Id">Details</a>
+            </td>
+
+
+
+           </tr>
+         }
+
+    </tbody>
+</table>
+<button style="background-color:darkblue;"><a asp-controller="Person" asp-action="Create">Register Person</a> </button>
+
+

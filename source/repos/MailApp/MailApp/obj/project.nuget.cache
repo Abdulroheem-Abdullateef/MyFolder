@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YBW/KU6VaO2KpVgLZUxnHiB4j7ccVMS/Ba1k5v3EO6hAbN2QQh6f5bd57Eibj69c4VqnJ/WzKdaGl0a3pyjbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ABDUL LATEEF RAHEEM\\source\\repos\\MailApp\\MailApp\\MailApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABDUL LATEEF RAHEEM\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
+    "C:\\Users\\ABDUL LATEEF RAHEEM\\.nuget\\packages\\mimekit\\3.1.1\\mimekit.3.1.1.nupkg.sha512",
+    "C:\\Users\\ABDUL LATEEF RAHEEM\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\ABDUL LATEEF RAHEEM\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\ABDUL LATEEF RAHEEM\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\ABDUL LATEEF RAHEEM\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.0\\system.security.cryptography.pkcs.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

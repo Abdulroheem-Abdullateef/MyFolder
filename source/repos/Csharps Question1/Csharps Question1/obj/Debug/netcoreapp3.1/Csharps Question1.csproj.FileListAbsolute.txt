@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\bin\Debug\netcoreapp3.1\Csharps Question1.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\bin\Debug\netcoreapp3.1\Csharps Question1.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\bin\Debug\netcoreapp3.1\Csharps Question1.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\bin\Debug\netcoreapp3.1\Csharps Question1.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\bin\Debug\netcoreapp3.1\Csharps Question1.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\bin\Debug\netcoreapp3.1\Csharps Question1.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\obj\Debug\netcoreapp3.1\Csharps Question1.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\obj\Debug\netcoreapp3.1\Csharps Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\obj\Debug\netcoreapp3.1\Csharps Question1.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\obj\Debug\netcoreapp3.1\Csharps Question1.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\obj\Debug\netcoreapp3.1\Csharps Question1.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\obj\Debug\netcoreapp3.1\Csharps Question1.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\obj\Debug\netcoreapp3.1\Csharps Question1.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Csharps Question1\Csharps Question1\obj\Debug\netcoreapp3.1\Csharps Question1.genruntimeconfig.cache

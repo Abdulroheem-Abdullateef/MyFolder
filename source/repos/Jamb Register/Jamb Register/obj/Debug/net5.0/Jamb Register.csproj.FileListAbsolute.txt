@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\bin\Debug\net5.0\Jamb Register.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\bin\Debug\net5.0\Jamb Register.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\bin\Debug\net5.0\Jamb Register.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\bin\Debug\net5.0\Jamb Register.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\bin\Debug\net5.0\Jamb Register.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\bin\Debug\net5.0\ref\Jamb Register.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\bin\Debug\net5.0\Jamb Register.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\obj\Debug\net5.0\Jamb Register.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\obj\Debug\net5.0\Jamb Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\obj\Debug\net5.0\Jamb Register.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\obj\Debug\net5.0\Jamb Register.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\obj\Debug\net5.0\Jamb Register.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\obj\Debug\net5.0\Jamb Register.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\obj\Debug\net5.0\ref\Jamb Register.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\obj\Debug\net5.0\Jamb Register.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Jamb Register\Jamb Register\obj\Debug\net5.0\Jamb Register.genruntimeconfig.cache

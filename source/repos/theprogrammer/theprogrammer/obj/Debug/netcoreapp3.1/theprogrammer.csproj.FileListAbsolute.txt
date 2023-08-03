@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\bin\Debug\netcoreapp3.1\theprogrammer.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\bin\Debug\netcoreapp3.1\theprogrammer.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\bin\Debug\netcoreapp3.1\theprogrammer.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\bin\Debug\netcoreapp3.1\theprogrammer.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\bin\Debug\netcoreapp3.1\theprogrammer.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\bin\Debug\netcoreapp3.1\theprogrammer.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\obj\Debug\netcoreapp3.1\theprogrammer.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\obj\Debug\netcoreapp3.1\theprogrammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\obj\Debug\netcoreapp3.1\theprogrammer.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\obj\Debug\netcoreapp3.1\theprogrammer.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\obj\Debug\netcoreapp3.1\theprogrammer.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\obj\Debug\netcoreapp3.1\theprogrammer.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\obj\Debug\netcoreapp3.1\theprogrammer.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\theprogrammer\theprogrammer\obj\Debug\netcoreapp3.1\theprogrammer.genruntimeconfig.cache

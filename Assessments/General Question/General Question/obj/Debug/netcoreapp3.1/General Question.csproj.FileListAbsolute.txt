@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\bin\Debug\netcoreapp3.1\General Question.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\bin\Debug\netcoreapp3.1\General Question.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\bin\Debug\netcoreapp3.1\General Question.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\bin\Debug\netcoreapp3.1\General Question.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\bin\Debug\netcoreapp3.1\General Question.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\bin\Debug\netcoreapp3.1\General Question.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\obj\Debug\netcoreapp3.1\General Question.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\obj\Debug\netcoreapp3.1\General Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\obj\Debug\netcoreapp3.1\General Question.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\obj\Debug\netcoreapp3.1\General Question.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\obj\Debug\netcoreapp3.1\General Question.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\obj\Debug\netcoreapp3.1\General Question.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\obj\Debug\netcoreapp3.1\General Question.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\General Question\General Question\obj\Debug\netcoreapp3.1\General Question.genruntimeconfig.cache

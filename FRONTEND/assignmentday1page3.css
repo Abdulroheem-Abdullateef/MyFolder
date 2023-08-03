@@ -1,0 +1,26 @@
+*{
+    background-color: red;
+}
+
+#all
+{
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+
+#tot
+{
+    color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-shadow:palegreen;
+}
+
+#tot-list
+{
+    text-transform: uppercase;
+    list-style:inside;
+    color: blue;
+}

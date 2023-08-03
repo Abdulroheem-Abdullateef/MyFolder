@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\bin\Debug\net5.0\Operators Overload.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\bin\Debug\net5.0\Operators Overload.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\bin\Debug\net5.0\Operators Overload.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\bin\Debug\net5.0\Operators Overload.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\bin\Debug\net5.0\Operators Overload.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\bin\Debug\net5.0\ref\Operators Overload.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\bin\Debug\net5.0\Operators Overload.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\obj\Debug\net5.0\Operators Overload.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\obj\Debug\net5.0\Operators Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\obj\Debug\net5.0\Operators Overload.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\obj\Debug\net5.0\Operators Overload.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\obj\Debug\net5.0\Operators Overload.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\obj\Debug\net5.0\Operators Overload.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\obj\Debug\net5.0\ref\Operators Overload.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\obj\Debug\net5.0\Operators Overload.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Operators Overload\Operators Overload\obj\Debug\net5.0\Operators Overload.genruntimeconfig.cache

@@ -1,0 +1,65 @@
+﻿@model LearningManagementSystem.DTOs.StudentDto
+@{
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+    ViewData["Title"] = "Student";
+}
+
+
+<dl class="row">
+    <dt class="col-sm-2">
+        FirstName:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.FirstName
+    </dd>
+    <dt class="col-sm-2">
+        DepartmentName:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.DepartmentName
+    </dd>
+
+
+    <dt class="col-sm-2">
+        LastName:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.LastName
+    </dd>
+
+    <dt class="col-sm-2">
+        DateOfBirth:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.DateOfBirth
+    </dd>
+
+    <dt class="col-sm-2">
+        Email:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Email
+    </dd>
+
+    <dt class="col-sm-2">
+        Address:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Address
+    </dd>
+
+    <dt class="col-sm-2">
+        Student Photo:
+    </dt>
+    <dd class="col-sm-10">
+        <img class="card-img" style="height:200px; width:200px" src="~/studentPhotos/@Model.StudentPhoto" />
+        <a href="~/studentPhotos/@Model.StudentPhoto" download="@Model.StudentPhoto"><input class="btn btn-outline-primary" type="button" value="Download Photo" /></a>
+    </dd>
+
+
+
+
+
+</dl>
+
+<button style="background-color:darkblue;"><a asp-action="Index">Back to List</a></button>

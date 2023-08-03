@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\bin\Debug\netcoreapp3.1\Question6 chapter6.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\bin\Debug\netcoreapp3.1\Question6 chapter6.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\bin\Debug\netcoreapp3.1\Question6 chapter6.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\bin\Debug\netcoreapp3.1\Question6 chapter6.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\bin\Debug\netcoreapp3.1\Question6 chapter6.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\bin\Debug\netcoreapp3.1\Question6 chapter6.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\obj\Debug\netcoreapp3.1\Question6 chapter6.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\obj\Debug\netcoreapp3.1\Question6 chapter6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\obj\Debug\netcoreapp3.1\Question6 chapter6.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\obj\Debug\netcoreapp3.1\Question6 chapter6.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\obj\Debug\netcoreapp3.1\Question6 chapter6.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\obj\Debug\netcoreapp3.1\Question6 chapter6.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\obj\Debug\netcoreapp3.1\Question6 chapter6.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Second assignment Of chapter 5-7\Question6 chapter6\Question6 chapter6\obj\Debug\netcoreapp3.1\Question6 chapter6.genruntimeconfig.cache

@@ -1,0 +1,62 @@
+@{
+   Layout = "PatientLayout";
+}
+@model ApiProject.Dtos.PatientDTO
+
+<dl class="row">
+     <dt class="col-sm-2">
+        Photo:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.PatientPhoto
+    </dd>
+    <dt class="col-sm-2">
+        FirstName:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.FirstName
+    </dd>
+    <dt class="col-sm-2">
+        LastName:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.LastName
+    </dd>
+     <dt class="col-sm-2">
+        Email:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Email
+    </dd>
+     <dt class="col-sm-2">
+        Gender:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Gender
+    </dd>
+     <dt class="col-sm-2">
+        Address:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Address
+    </dd>
+      <dt class="col-sm-2">
+        PhoneNumber:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.PhoneNumber
+    </dd>
+      <dt class="col-sm-2">
+        BloodGroup:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.BloodGroup
+    </dd>    
+      <dt class="col-sm-2">
+        Genotype:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Genotype
+    </dd>
+    
+</dl>

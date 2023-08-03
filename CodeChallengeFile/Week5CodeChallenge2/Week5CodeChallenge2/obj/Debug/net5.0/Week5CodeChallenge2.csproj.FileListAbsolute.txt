@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\bin\Debug\net5.0\Week5CodeChallenge2.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\bin\Debug\net5.0\Week5CodeChallenge2.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\bin\Debug\net5.0\Week5CodeChallenge2.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\bin\Debug\net5.0\Week5CodeChallenge2.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\bin\Debug\net5.0\Week5CodeChallenge2.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\bin\Debug\net5.0\ref\Week5CodeChallenge2.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\bin\Debug\net5.0\Week5CodeChallenge2.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\obj\Debug\net5.0\Week5CodeChallenge2.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\obj\Debug\net5.0\Week5CodeChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\obj\Debug\net5.0\Week5CodeChallenge2.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\obj\Debug\net5.0\Week5CodeChallenge2.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\obj\Debug\net5.0\Week5CodeChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\obj\Debug\net5.0\Week5CodeChallenge2.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\obj\Debug\net5.0\ref\Week5CodeChallenge2.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\obj\Debug\net5.0\Week5CodeChallenge2.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\CodeChallenge\Week5CodeChallenge2\Week5CodeChallenge2\obj\Debug\net5.0\Week5CodeChallenge2.genruntimeconfig.cache

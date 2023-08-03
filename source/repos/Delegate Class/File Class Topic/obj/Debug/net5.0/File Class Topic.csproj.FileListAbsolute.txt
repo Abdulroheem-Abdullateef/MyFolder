@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\bin\Debug\net5.0\File Class Topic.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\bin\Debug\net5.0\File Class Topic.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\bin\Debug\net5.0\File Class Topic.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\bin\Debug\net5.0\File Class Topic.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\bin\Debug\net5.0\File Class Topic.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\bin\Debug\net5.0\ref\File Class Topic.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\bin\Debug\net5.0\File Class Topic.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\obj\Debug\net5.0\File Class Topic.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\obj\Debug\net5.0\File Class Topic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\obj\Debug\net5.0\File Class Topic.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\obj\Debug\net5.0\File Class Topic.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\obj\Debug\net5.0\File Class Topic.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\obj\Debug\net5.0\File Class Topic.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\obj\Debug\net5.0\ref\File Class Topic.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\obj\Debug\net5.0\File Class Topic.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\File Class Topic\File Class Topic\obj\Debug\net5.0\File Class Topic.genruntimeconfig.cache

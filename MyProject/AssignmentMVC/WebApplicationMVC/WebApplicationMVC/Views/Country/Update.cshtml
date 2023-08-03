@@ -1,0 +1,83 @@
+﻿@model WebApplicationMVC.DTO.CountryDto;
+
+
+
+
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class=" card col-md-6">
+            <div class="card-body ">
+                <div class="bg-light">
+                    <h1 class="tagcolor" style="color:mediumblue">Person</h1>
+                    <p class="tagcolor" style="color:mediumblue">Please fill in this form to Update your information.</p>
+                    <hr class="tagcolor" style="color:mediumblue">
+
+                </div>
+                <form asp-action="Update">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-row">
+
+                        <div class="form-group col-sm-6">
+                            <label asp-for="CountryName" class="control-label"></label>
+                            <input asp-for="CountryName" class="form-control" />
+                            <span asp-validation-for="CountryName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group col-sm-6">
+                            <label asp-for="Cities" class="control-label"></label>
+                            <input asp-for="Cities" class="form-control" />
+                            <span asp-validation-for="Cities" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="form-group col-sm-6">
+                            <label asp-for="Independent" class="control-label"></label>
+                            <input asp-for="Independent" class="form-control" />
+                            <span asp-validation-for="Independent" class="text-danger"></span>
+                        </div>
+
+
+                        
+                        <div class="form-group col-sm-6">
+                            <label asp-for="Population" class="control-label"></label>
+                            <input asp-for="Population" class="form-control" />
+                            <span asp-validation-for="Population" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="form-group col-sm-6">
+                            <label asp-for="SurfaceArea" class="control-label"></label>
+                            <input asp-for="SurfaceArea" class="form-control" />
+                            <span asp-validation-for="SurfaceArea" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="form-group col-sm-6">
+                            <label asp-for="Region" class="control-label"></label>
+                            <input asp-for="Region" class="form-control" />
+                            <span asp-validation-for="Region" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="form-group ">
+                            <input href="#myModal" type="submit" value="Submit" class="btn btn-success trigger-btn col-sm-12" data-toggle="modal" />
+                        </div>
+
+                    </div>
+
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

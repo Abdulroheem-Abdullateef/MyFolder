@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\bin\Debug\netcoreapp3.1\revition.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\bin\Debug\netcoreapp3.1\revition.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\bin\Debug\netcoreapp3.1\revition.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\bin\Debug\netcoreapp3.1\revition.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\bin\Debug\netcoreapp3.1\revition.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\bin\Debug\netcoreapp3.1\revition.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\obj\Debug\netcoreapp3.1\revition.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\obj\Debug\netcoreapp3.1\revition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\obj\Debug\netcoreapp3.1\revition.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\obj\Debug\netcoreapp3.1\revition.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\obj\Debug\netcoreapp3.1\revition.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\obj\Debug\netcoreapp3.1\revition.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\obj\Debug\netcoreapp3.1\revition.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\revition\revition\obj\Debug\netcoreapp3.1\revition.genruntimeconfig.cache

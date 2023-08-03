@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\bin\Debug\net5.0\ref\GenericClass.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\bin\Debug\net5.0\GenericClass.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\obj\Debug\net5.0\ref\GenericClass.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\GenericClass\GenericClass\obj\Debug\net5.0\GenericClass.genruntimeconfig.cache

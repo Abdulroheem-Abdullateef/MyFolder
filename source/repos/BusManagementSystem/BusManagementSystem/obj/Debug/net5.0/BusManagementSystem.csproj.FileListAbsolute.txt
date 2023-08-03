@@ -1,0 +1,5 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BusManagementSystem\BusManagementSystem\obj\Debug\net5.0\BusManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BusManagementSystem\BusManagementSystem\obj\Debug\net5.0\BusManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BusManagementSystem\BusManagementSystem\obj\Debug\net5.0\BusManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BusManagementSystem\BusManagementSystem\obj\Debug\net5.0\BusManagementSystem.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\BusManagementSystem\BusManagementSystem\obj\Debug\net5.0\BusManagementSystem.csproj.CoreCompileInputs.cache

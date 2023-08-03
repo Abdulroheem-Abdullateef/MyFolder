@@ -1,0 +1,20 @@
+
+
+body{
+    background-color: gold;
+}
+
+#head{
+    color: darkred;
+    text-align: center;
+}
+
+#page{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.heading{
+    color:rgb(233, 31, 31);
+    text-align: center;
+}

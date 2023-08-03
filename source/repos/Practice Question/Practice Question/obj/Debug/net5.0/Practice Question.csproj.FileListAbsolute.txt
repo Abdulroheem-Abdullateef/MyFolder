@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\bin\Debug\net5.0\Practice Question.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\bin\Debug\net5.0\Practice Question.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\bin\Debug\net5.0\Practice Question.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\bin\Debug\net5.0\Practice Question.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\bin\Debug\net5.0\Practice Question.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\bin\Debug\net5.0\ref\Practice Question.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\bin\Debug\net5.0\Practice Question.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\obj\Debug\net5.0\Practice Question.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\obj\Debug\net5.0\Practice Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\obj\Debug\net5.0\Practice Question.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\obj\Debug\net5.0\Practice Question.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\obj\Debug\net5.0\Practice Question.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\obj\Debug\net5.0\Practice Question.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\obj\Debug\net5.0\ref\Practice Question.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\obj\Debug\net5.0\Practice Question.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Practice Question\Practice Question\obj\Debug\net5.0\Practice Question.genruntimeconfig.cache

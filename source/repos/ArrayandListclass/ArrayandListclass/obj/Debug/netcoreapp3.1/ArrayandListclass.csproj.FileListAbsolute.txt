@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\bin\Debug\netcoreapp3.1\ArrayandListclass.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\bin\Debug\netcoreapp3.1\ArrayandListclass.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\bin\Debug\netcoreapp3.1\ArrayandListclass.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\bin\Debug\netcoreapp3.1\ArrayandListclass.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\bin\Debug\netcoreapp3.1\ArrayandListclass.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\bin\Debug\netcoreapp3.1\ArrayandListclass.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\obj\Debug\netcoreapp3.1\ArrayandListclass.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\obj\Debug\netcoreapp3.1\ArrayandListclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\obj\Debug\netcoreapp3.1\ArrayandListclass.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\obj\Debug\netcoreapp3.1\ArrayandListclass.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\obj\Debug\netcoreapp3.1\ArrayandListclass.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\obj\Debug\netcoreapp3.1\ArrayandListclass.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\obj\Debug\netcoreapp3.1\ArrayandListclass.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\ArrayandListclass\ArrayandListclass\obj\Debug\netcoreapp3.1\ArrayandListclass.genruntimeconfig.cache

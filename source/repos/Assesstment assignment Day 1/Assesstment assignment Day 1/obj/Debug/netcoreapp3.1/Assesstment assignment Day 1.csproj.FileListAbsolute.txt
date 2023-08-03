@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\bin\Debug\netcoreapp3.1\Assesstment assignment Day 1.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\bin\Debug\netcoreapp3.1\Assesstment assignment Day 1.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\bin\Debug\netcoreapp3.1\Assesstment assignment Day 1.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\bin\Debug\netcoreapp3.1\Assesstment assignment Day 1.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\bin\Debug\netcoreapp3.1\Assesstment assignment Day 1.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\bin\Debug\netcoreapp3.1\Assesstment assignment Day 1.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\obj\Debug\netcoreapp3.1\Assesstment assignment Day 1.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\obj\Debug\netcoreapp3.1\Assesstment assignment Day 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\obj\Debug\netcoreapp3.1\Assesstment assignment Day 1.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\obj\Debug\netcoreapp3.1\Assesstment assignment Day 1.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\obj\Debug\netcoreapp3.1\Assesstment assignment Day 1.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\obj\Debug\netcoreapp3.1\Assesstment assignment Day 1.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\obj\Debug\netcoreapp3.1\Assesstment assignment Day 1.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assesstment assignment Day 1\Assesstment assignment Day 1\obj\Debug\netcoreapp3.1\Assesstment assignment Day 1.genruntimeconfig.cache

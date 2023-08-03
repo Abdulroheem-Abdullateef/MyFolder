@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\bin\Debug\net5.0\CodeChallengeWeek9.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\bin\Debug\net5.0\CodeChallengeWeek9.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\bin\Debug\net5.0\CodeChallengeWeek9.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\bin\Debug\net5.0\CodeChallengeWeek9.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\bin\Debug\net5.0\CodeChallengeWeek9.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\bin\Debug\net5.0\CodeChallengeWeek9.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\CodeChallengeWeek9.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\CodeChallengeWeek9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\CodeChallengeWeek9.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\CodeChallengeWeek9.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\CodeChallengeWeek9.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\CodeChallengeWeek9.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\refint\CodeChallengeWeek9.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\CodeChallengeWeek9.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\CodeChallengeWeek9.genruntimeconfig.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\CodeChallengeWeek9\CodeChallengeWeek9\obj\Debug\net5.0\ref\CodeChallengeWeek9.dll

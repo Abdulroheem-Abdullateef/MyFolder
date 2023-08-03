@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\bin\Debug\netcoreapp3.1\Number3.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\bin\Debug\netcoreapp3.1\Number3.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\bin\Debug\netcoreapp3.1\Number3.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\bin\Debug\netcoreapp3.1\Number3.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\bin\Debug\netcoreapp3.1\Number3.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\bin\Debug\netcoreapp3.1\Number3.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\obj\Debug\netcoreapp3.1\Number3.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\obj\Debug\netcoreapp3.1\Number3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\obj\Debug\netcoreapp3.1\Number3.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\obj\Debug\netcoreapp3.1\Number3.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\obj\Debug\netcoreapp3.1\Number3.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\obj\Debug\netcoreapp3.1\Number3.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\obj\Debug\netcoreapp3.1\Number3.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\Assessments\Number3\Number3\obj\Debug\netcoreapp3.1\Number3.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+@{
+    Layout = "HospitalLayOut";
+}
+@model ApiProject.Dtos.MedicalRecordDTO
+<dl class="row">
+    <dt class="col-sm-2">
+        PatientName:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.PatientName
+    </dd>
+    <dt class="col-sm-2">
+        Complain:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.PatientComplain
+    </dd>
+    <dt class="col-sm-2">
+        Diagnosis:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Diagnosis
+    </dd>
+    <dt class="col-sm-2">
+        Doctor's Name:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.DoctorName
+    </dd> 
+    <dt class="col-sm-2">
+        Doctor's Report:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.DoctorReport
+    </dd>   
+    <dt class="col-sm-2">
+        Prescription:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Prescription
+    </dd> 
+    <dt class="col-sm-2">
+        Refferral:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Refferral
+    </dd>   
+
+</dl>

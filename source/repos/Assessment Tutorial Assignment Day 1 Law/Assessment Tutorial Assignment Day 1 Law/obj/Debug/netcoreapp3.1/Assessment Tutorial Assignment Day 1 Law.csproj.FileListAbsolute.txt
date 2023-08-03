@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Day 1 Law\Assessment Tutorial Assignment Day 1 Law\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Day 1 Law.genruntimeconfig.cache

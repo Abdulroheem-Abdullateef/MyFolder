@@ -1,0 +1,170 @@
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.exe
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.Views.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.Views.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorAssemblyInfo.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorAssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.styles.css
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.TagHelpers.input.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.TagHelpers.output.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorCoreGenerate.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Update.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Update.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Login.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Profile.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Update.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_InstructorLayout.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_StudentLayout.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Profile.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Update.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.Views.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.csproj.CopyComplete
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\refint\LearningManagementSystem.dll
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.pdb
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.genruntimeconfig.cache
+C:\Users\ABDUL LATEEF RAHEEM\OneDrive\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\ref\LearningManagementSystem.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.exe
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.deps.json
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.runtimeconfig.json
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.runtimeconfig.dev.json
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.pdb
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.Views.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\LearningManagementSystem.Views.pdb
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.csproj.AssemblyReference.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.AssemblyInfoInputs.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.AssemblyInfo.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorAssemblyInfo.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorAssemblyInfo.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\scopedcss\bundle\LearningManagementSystem.styles.css
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\staticwebassets\LearningManagementSystem.StaticWebAssets.Manifest.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.TagHelpers.input.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.TagHelpers.output.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorCoreGenerate.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Create.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Delete.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Details.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Course\Update.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Department\Update.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Create.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Delete.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Details.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Index.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Login.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Profile.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Instructor\Update.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_InstructorLayout.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_StudentLayout.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Login.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Profile.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\Student\Update.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.RazorTargetAssemblyInfo.cs
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.Views.pdb
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.csproj.CopyComplete
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\refint\LearningManagementSystem.dll
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.pdb
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\LearningManagementSystem.genruntimeconfig.cache
+C:\Users\BDUL LATEEF\Desktop\My Project\LearningManagementSystem\LearningManagementSystem\obj\Debug\net5.0\ref\LearningManagementSystem.dll

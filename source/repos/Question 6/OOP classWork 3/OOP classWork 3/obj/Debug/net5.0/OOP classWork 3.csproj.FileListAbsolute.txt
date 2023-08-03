@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\bin\Debug\net5.0\OOP classWork 3.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\bin\Debug\net5.0\OOP classWork 3.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\bin\Debug\net5.0\OOP classWork 3.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\bin\Debug\net5.0\OOP classWork 3.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\bin\Debug\net5.0\OOP classWork 3.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\bin\Debug\net5.0\ref\OOP classWork 3.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\bin\Debug\net5.0\OOP classWork 3.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\obj\Debug\net5.0\OOP classWork 3.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\obj\Debug\net5.0\OOP classWork 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\obj\Debug\net5.0\OOP classWork 3.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\obj\Debug\net5.0\OOP classWork 3.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\obj\Debug\net5.0\OOP classWork 3.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\obj\Debug\net5.0\OOP classWork 3.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\obj\Debug\net5.0\ref\OOP classWork 3.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\obj\Debug\net5.0\OOP classWork 3.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\OOP classWork 3\OOP classWork 3\obj\Debug\net5.0\OOP classWork 3.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+﻿@model IEnumerable<WebApplicationRevisionMVC.Models.Person>
+
+@foreach (var item in @Model)
+{
+    <p> Address : @item.Address </p>
+    <p>  Age    : @item.Age  </p>
+    <p> Email : @item.Email </p>
+    <p>  LastName : @item.LastName</p>
+    <p> FirstName : @item.FirstName</p>
+    <p>Password : @item.PassWord </p>
+    <p>PhoneNumber : @item.PhoneNumber </p>
+    <p> Registration : @item.RegistrationNumber </p>
+
+}

@@ -1,0 +1,90 @@
+﻿@model IEnumerable<WebApplicationMVC.DTO.CityDto>
+
+
+
+
+<div class="card-header" style="background-color:yellowgreen;">
+    <div class="card-title">
+        <h1 class="text-center">City</h1>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.CityName)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.CityCode)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Population)
+            </th>
+
+
+
+
+
+            <th>
+                Update
+            </th>
+            <th>
+                Details
+            </th>
+            <th>
+                Delete
+            </th>
+
+
+
+        </tr>
+    </thead>
+    <tbody>
+        
+        @foreach (var city in Model)
+         {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => city.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => city.CityName)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => city.CityCode)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => city.Population)
+            </td>
+
+            <td>
+                <a asp-action="Update" asp-route-id="@city.Id">Update</a>
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@city.Id">Details</a>
+            </td>
+            <td>
+                <a asp-action="Delete" asp-route-id="@city.Id">Delete</a>
+            </td>
+
+
+        </tr>
+         }
+
+    </tbody>
+
+</table>
+
+<button  style="background-color:darkblue; "> <a  asp-controller="City" asp-action="Create"> Register City </a> </button>
+
+

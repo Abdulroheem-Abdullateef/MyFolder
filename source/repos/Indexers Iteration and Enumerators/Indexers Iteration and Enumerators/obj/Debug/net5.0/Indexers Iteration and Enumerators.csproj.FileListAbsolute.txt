@@ -1,0 +1,16 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\bin\Debug\net5.0\Indexers Iteration and Enumerators.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\bin\Debug\net5.0\Indexers Iteration and Enumerators.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\bin\Debug\net5.0\Indexers Iteration and Enumerators.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\bin\Debug\net5.0\Indexers Iteration and Enumerators.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\bin\Debug\net5.0\Indexers Iteration and Enumerators.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\bin\Debug\net5.0\ref\Indexers Iteration and Enumerators.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\bin\Debug\net5.0\Indexers Iteration and Enumerators.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\obj\Debug\net5.0\Indexers Iteration and Enumerators.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\obj\Debug\net5.0\Indexers Iteration and Enumerators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\obj\Debug\net5.0\Indexers Iteration and Enumerators.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\obj\Debug\net5.0\Indexers Iteration and Enumerators.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\obj\Debug\net5.0\Indexers Iteration and Enumerators.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\obj\Debug\net5.0\Indexers Iteration and Enumerators.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\obj\Debug\net5.0\ref\Indexers Iteration and Enumerators.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\obj\Debug\net5.0\Indexers Iteration and Enumerators.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Indexers Iteration and Enumerators\Indexers Iteration and Enumerators\obj\Debug\net5.0\Indexers Iteration and Enumerators.genruntimeconfig.cache

@@ -1,0 +1,65 @@
+﻿
+@model IEnumerable<LearningManagementSystem.DTOs.DepartmentDto>
+
+@{
+    Layout = "_InstructorLayout";
+    ViewData["Title"] = "Instructor";
+}
+
+
+
+
+<div class="card-header" style="background-color:midnightblue;">
+    <div class="card-title">
+        <h1 class="text-center">Department</h1>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmentName)
+            </th>
+
+
+
+
+
+
+            <th>
+                Update
+            </th>
+            <th>
+                Details
+            </th>
+            <th>
+                Delete
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => department.DepartmentName)
+                </td>
+
+
+                <td>
+                    <a asp-action="Update" asp-route-id="@department.Id">Update</a>
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@department.Id">Details</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@department.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<button style="background-color:wheat;"><a asp-controller="Department" asp-action="Create">Register Department</a> </button>
+

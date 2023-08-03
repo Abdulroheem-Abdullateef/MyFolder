@@ -1,0 +1,16 @@
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\bin\Debug\net5.0\QUESTION 13.exe
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\bin\Debug\net5.0\QUESTION 13.deps.json
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\bin\Debug\net5.0\QUESTION 13.runtimeconfig.json
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\bin\Debug\net5.0\QUESTION 13.runtimeconfig.dev.json
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\bin\Debug\net5.0\QUESTION 13.dll
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\bin\Debug\net5.0\ref\QUESTION 13.dll
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\bin\Debug\net5.0\QUESTION 13.pdb
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\obj\Debug\net5.0\QUESTION 13.csproj.AssemblyReference.cache
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\obj\Debug\net5.0\QUESTION 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\obj\Debug\net5.0\QUESTION 13.AssemblyInfoInputs.cache
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\obj\Debug\net5.0\QUESTION 13.AssemblyInfo.cs
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\obj\Debug\net5.0\QUESTION 13.csproj.CoreCompileInputs.cache
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\obj\Debug\net5.0\QUESTION 13.dll
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\obj\Debug\net5.0\ref\QUESTION 13.dll
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\obj\Debug\net5.0\QUESTION 13.pdb
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 13\obj\Debug\net5.0\QUESTION 13.genruntimeconfig.cache

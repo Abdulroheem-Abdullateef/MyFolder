@@ -1,0 +1,78 @@
+.container {
+max-width: 280px;
+margin: 10vh auto auto;
+border-radius: 15px;
+background: rgb(46, 3, 59);
+box-shadow: 0px 0px 43px 17px rgb(36, 240, 230); 
+}
+
+
+
+#display {
+    text-align: right;
+    height: 70px;
+    line-height: 70px;
+    margin-bottom: 20px;
+    padding: 16px 8px;
+    padding-bottom: 25%;
+    scroll-padding-bottom: 33px;
+    font-display:inherit;
+    font-size: 25px;
+    color: rgb(27, 221, 53);
+    box-shadow: 4px 4px 10px rgba(36, 103, 165, 0.8);
+    box-sizing:border-box;
+    background-color: rgb(11, 23, 24);
+    
+    border-radius:30px;
+    
+    
+}
+
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    padding: 25px;
+    color: rgb(26, 201, 224);
+    
+}
+
+
+
+.button {
+    flex: 0 0 22%;
+    margin: 5px 0;
+    border: 1px solid rgb(15, 123, 196);
+    width: 60px;
+    height: 52px;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+#equal{
+   background-color: yellow;
+   color: rgb(2, 2, 2);
+   text-align:inherit;
+   
+}
+
+#clear{
+    background-color: #f7163c;
+    color: rgb(233, 221, 221);
+}
+
+#back{
+    background-color: #37e020;
+    color: rgb(233, 221, 221);
+}
+
+.button:hover{
+    background-color: black;
+    color: rgb(228, 222, 211);
+    transition: 0.5s ease-in-out ;
+}
+

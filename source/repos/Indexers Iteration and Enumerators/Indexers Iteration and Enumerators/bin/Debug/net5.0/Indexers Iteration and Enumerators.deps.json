@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Indexers Iteration and Enumerators/1.0.0": {
+        "runtime": {
+          "Indexers Iteration and Enumerators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indexers Iteration and Enumerators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

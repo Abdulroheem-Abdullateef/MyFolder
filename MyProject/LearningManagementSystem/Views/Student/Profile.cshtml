@@ -1,0 +1,77 @@
+﻿@model  LearningManagementSystem.DTOs.StudentDto
+
+@{
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+    ViewData["Title"] = "Student";
+}
+
+@using Microsoft.AspNetCore.Http;
+
+<dl class="row">
+    <dt class="col-sm-2">
+        FirstName:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.FirstName
+    </dd>
+    <dt class="col-sm-2">
+        LastName:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.LastName
+    </dd>
+    <dt class="col-sm-2">
+        Email:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Email
+    </dd>
+    <dt class="col-sm-2">
+        Phone:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.PhoneNumber
+    </dd>
+    <dt class="col-sm-2">
+        Department:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.DepartmentName
+    </dd>
+
+    <dt class="col-sm-2">
+        Student Courses:
+    </dt>
+    @foreach (var course in Model.Courses)
+    {
+        <dd class="col-sm-10">
+            @course.CourseName
+        </dd>
+
+        <dt class="col-sm-2">
+           CourseCode :
+        </dt>
+        <dd class="col-sm-10">
+            @course.CourseCode
+        </dd>
+
+        <dt class="col -sm-2">
+            InstructorName :
+        </dt>
+        <dd class="col-sm-10">
+            @course.InstructorName
+        </dd>
+
+
+    }
+    <dt class="col-sm-2">
+        Student Photo:
+    </dt>
+    <dd class="col-sm-10">
+        <img class="card-img" style="height:200px; width:200px" src="~/StudentPhotos/@Context.Session.GetString("Photo")" />
+        <a href="~/studentPhotos/@Context.Session.GetString("Photo")" download="@Context.Session.GetString("Photo")"><input class="btn btn-outline-primary" type="button" value="Download Photo" /></a>
+    </dd>
+
+</dl>
+
+

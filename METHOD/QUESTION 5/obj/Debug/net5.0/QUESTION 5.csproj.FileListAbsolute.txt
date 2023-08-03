@@ -1,0 +1,16 @@
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\obj\Debug\net5.0\QUESTION 5.csproj.AssemblyReference.cache
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\obj\Debug\net5.0\QUESTION 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\obj\Debug\net5.0\QUESTION 5.AssemblyInfoInputs.cache
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\obj\Debug\net5.0\QUESTION 5.AssemblyInfo.cs
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\obj\Debug\net5.0\QUESTION 5.csproj.CoreCompileInputs.cache
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\bin\Debug\net5.0\QUESTION 5.exe
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\bin\Debug\net5.0\QUESTION 5.deps.json
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\bin\Debug\net5.0\QUESTION 5.runtimeconfig.json
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\bin\Debug\net5.0\QUESTION 5.runtimeconfig.dev.json
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\bin\Debug\net5.0\QUESTION 5.dll
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\bin\Debug\net5.0\ref\QUESTION 5.dll
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\bin\Debug\net5.0\QUESTION 5.pdb
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\obj\Debug\net5.0\QUESTION 5.dll
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\obj\Debug\net5.0\ref\QUESTION 5.dll
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\obj\Debug\net5.0\QUESTION 5.pdb
+C:\Users\AFOLAYAN\Desktop\METHOD\QUESTION 5\obj\Debug\net5.0\QUESTION 5.genruntimeconfig.cache

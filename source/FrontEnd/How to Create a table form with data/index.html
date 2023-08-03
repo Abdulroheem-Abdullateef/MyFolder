@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Table</title>
+    <script type="text/javascript" src="script.js"></script>
+</head>
+
+
+<body class="load">
+    <div id="myform">
+        <b>Simple form to add item</b>
+
+        <table>
+            <tr>
+                <th>S/N</th>
+                <th>NAME</th>
+                <th>QUANTITY</th>
+                <th>UNITPRICE</th>
+                <th>TOTALPRICE</th>
+            </tr>
+
+            <tr>
+                <td>NAME</td>
+                <td> <input type="text" id="name"></td>
+            </tr>
+
+            <tr>
+                <td>QUANTITY</td>
+                <td> <input type="number" id="quantity"></td>
+            </tr>
+
+            <tr>
+                <td>UNITPRICE</td>
+                <td> <input type="number" id="unitprice">
+                <input type="button" id="add" value="Add" onclick="javascript:addRow()"></td>
+            </tr>
+
+            <tr>
+                <td>&nbsp;</td>
+                <td> &nbsp;</td>
+            </tr>
+        </table>
+    </div>
+    <div id="mydata"> 
+        <b>Current form on the page</b>
+        <table id="myTableData" border="1" cellpadding="2">
+        <tr>
+            <td>&nbsp;</td>
+            <td><b>Name</b></td>
+            <td><b>Quantity</b></td>
+            <td><b>Unitprice</b></td>
+        </tr>
+
+        </table>
+        &nbsp;<br/>
+    </div>
+    <div id="myDynaminTable">
+        <input type="button" id="create" value="Click here" onclick="javascript:addTable()">
+    </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\bin\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\bin\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\bin\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\bin\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\bin\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\bin\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\obj\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\obj\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\obj\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\obj\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\obj\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\obj\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\obj\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\AssesstmentDay2Assignmet\AssesstmentDay2Assignmet\obj\Debug\netcoreapp3.1\AssesstmentDay2Assignmet.genruntimeconfig.cache

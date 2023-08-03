@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\bin\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\Assessment Tutorial Assignment Class\Assessment Tutorial Assignment Class\obj\Debug\netcoreapp3.1\Assessment Tutorial Assignment Class.genruntimeconfig.cache

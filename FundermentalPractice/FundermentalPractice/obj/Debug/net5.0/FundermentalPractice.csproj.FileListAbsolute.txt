@@ -1,0 +1,16 @@
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\bin\Debug\net5.0\FundermentalPractice.exe
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\bin\Debug\net5.0\FundermentalPractice.deps.json
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\bin\Debug\net5.0\FundermentalPractice.runtimeconfig.json
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\bin\Debug\net5.0\FundermentalPractice.runtimeconfig.dev.json
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\bin\Debug\net5.0\FundermentalPractice.dll
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\bin\Debug\net5.0\FundermentalPractice.pdb
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\FundermentalPractice.csproj.AssemblyReference.cache
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\FundermentalPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\FundermentalPractice.AssemblyInfoInputs.cache
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\FundermentalPractice.AssemblyInfo.cs
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\FundermentalPractice.csproj.CoreCompileInputs.cache
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\FundermentalPractice.dll
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\refint\FundermentalPractice.dll
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\FundermentalPractice.pdb
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\FundermentalPractice.genruntimeconfig.cache
+C:\Users\BDUL LATEEF\Desktop\FundermentalPractice\FundermentalPractice\obj\Debug\net5.0\ref\FundermentalPractice.dll

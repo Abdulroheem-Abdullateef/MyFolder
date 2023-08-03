@@ -1,0 +1,14 @@
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\bin\Debug\netcoreapp3.1\number8question.exe
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\bin\Debug\netcoreapp3.1\number8question.deps.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\bin\Debug\netcoreapp3.1\number8question.runtimeconfig.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\bin\Debug\netcoreapp3.1\number8question.runtimeconfig.dev.json
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\bin\Debug\netcoreapp3.1\number8question.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\bin\Debug\netcoreapp3.1\number8question.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\obj\Debug\netcoreapp3.1\number8question.csproj.AssemblyReference.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\obj\Debug\netcoreapp3.1\number8question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\obj\Debug\netcoreapp3.1\number8question.AssemblyInfoInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\obj\Debug\netcoreapp3.1\number8question.AssemblyInfo.cs
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\obj\Debug\netcoreapp3.1\number8question.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\obj\Debug\netcoreapp3.1\number8question.dll
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\obj\Debug\netcoreapp3.1\number8question.pdb
+C:\Users\ABDUL LATEEF RAHEEM\source\repos\number8question\number8question\obj\Debug\netcoreapp3.1\number8question.genruntimeconfig.cache

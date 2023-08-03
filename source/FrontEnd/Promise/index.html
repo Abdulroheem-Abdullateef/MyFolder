@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <button id="btn-button">click</button>
+    <div>
+        <ol id="list">
+
+        </ol>
+    </div>
+    <script>
+       
+        // function printEvenNumber(num) {
+        //     if (num % 2 ==0) {
+        //         console.log(num);
+        //     }
+
+        //     else{
+        //         console.log("Invalid Input");
+        //     }
+        // }
+
+
+        // function printEvenNumber(num) {
+        //     return new Promise(function (resolve,reject) {
+        //         if (num%2==0) {
+        //             resolve(num);
+        //         }
+        //         else
+        //         {
+        //             reject("invalid input");
+        //         }
+        //     });
+            
+        // }
+
+        
+ 
+
+        // function printDouble(num) {
+        //     return new Promise(function (resolve,reject) {
+        //         setTimeout(function()
+        //         {
+        //                 resolve(num * 2);                       
+        //         },5000)
+                
+        //     })           
+        // }
+
+
+        // printEvenNumber(16)
+        // .then(function(value){
+        //     console.log("it is an even number");
+        //     return printDouble(value);  
+        // })
+        // .then(function(double)
+        // {
+        //     console.log(double);
+        // })
+        // .catch(function(error){
+        //     console.log(error);
+        // })
+
+        
+
+        const xhhtp = new XMLHttpRequest();
+        
+        xhhtp.onreadystatechange = function()
+        {
+            if (this.readyState == 4 && this.status == 200)
+             {
+                 console.log("it successful");
+              const respondejson = JSON.parse(this.response)
+              const listol = document.getElementById('list');
+
+              for(let respond of respondejson)
+              {
+                  let li = document.createElement('li');
+                  li.innerText = respond.title;
+                  listol.appendChild(li); 
+              }
+            }
+
+        }
+
+        var btnGetProduct = document.getElementById("btn-button");
+
+
+        btnGetProduct.addEventListener('click',function () 
+        {
+            xhhtp.open('GET','https://fakestoreapi.com/products');
+            xhhtp.send();
+        })
+
+        // fetch(url)
+        // .then(function (respond)
+        //  {
+        //      response.JSON();
+            
+        // })
+        // .then(function(respond) 
+        // {
+        //     callback(response);
+        // })
+        // .catch(function (error) 
+        // {
+        //   console.log(error);  
+        // })
+
+    </script>
+</body>
+</html>

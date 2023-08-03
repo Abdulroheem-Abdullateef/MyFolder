@@ -1,0 +1,49 @@
+﻿@model WebApplicationMVC.DTO.CountryDto
+
+
+<dl class="row">
+    <dt class="col-sm-2">
+        CountryName:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.CountryName
+    </dd>
+    <dt class="col-sm-2">
+        Cities:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Cities
+    </dd>
+    <dt class="col-sm-2">
+        Independent Year:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Independent
+    </dd>
+  
+    <dt class="col-sm-2">
+        Population:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Population
+    </dd>
+
+    <dt class="col-sm-2">
+        CountryRegion:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.Region
+    </dd>
+
+    <dt class="col-sm-2">
+        CountrySurfaceArea:
+    </dt>
+    <dd class="col-sm-10">
+        @Model.SurfaceArea
+    </dd>
+
+
+
+</dl>
+
+<button style="background-color:darkblue;"><a asp-action="Index">Back to List </a></button>
